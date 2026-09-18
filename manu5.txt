@@ -1,0 +1,9 @@
+<h1>Heading</h1>
+<p>Paragraph</p>
+<a> href="#">Link</a>
+<ul><li>List item</li></ul>
+<div>Division</div>
+<span>Text</span>
+<button>Click Me</button>
+<form>Form</form>
+<input type="text">
